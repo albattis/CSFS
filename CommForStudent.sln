@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommForStudent", "CommForStudent\CommForStudent.csproj", "{D9766DE4-4C60-49F9-B370-3E499B4499FA}"
 EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CommDtabase", "CommDtabase\CommDtabase.sqlproj", "{C582FC6A-F3F3-477F-BD0A-0CEC413D0781}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CommDatabase", "CommDtabase\CommDatabase.sqlproj", "{C582FC6A-F3F3-477F-BD0A-0CEC413D0781}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
