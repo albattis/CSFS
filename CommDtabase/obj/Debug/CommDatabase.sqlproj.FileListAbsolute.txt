@@ -1,0 +1,9 @@
+C:\Users\Samsung\Desktop\CommForStudent\CommDtabase\bin\Debug\CommDatabase.dacpac
+C:\Users\Samsung\Desktop\CommForStudent\CommDtabase\bin\Debug\CommDtabase.dll
+C:\Users\Samsung\Desktop\CommForStudent\CommDtabase\bin\Debug\CommDtabase.pdb
+C:\Users\Samsung\Desktop\CommForStudent\CommDtabase\obj\Debug\Model.xml
+C:\Users\Samsung\Desktop\CommForStudent\CommDtabase\obj\Debug\refactor.xml
+C:\Users\Samsung\Desktop\CommForStudent\CommDtabase\obj\Debug\postdeploy.sql
+C:\Users\Samsung\Desktop\CommForStudent\CommDtabase\obj\Debug\predeploy.sql
+C:\Users\Samsung\Desktop\CommForStudent\CommDtabase\obj\Debug\CommDtabase.dll
+C:\Users\Samsung\Desktop\CommForStudent\CommDtabase\obj\Debug\CommDtabase.pdb

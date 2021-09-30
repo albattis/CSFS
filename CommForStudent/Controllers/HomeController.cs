@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using CommForStudent.Models.LoginModels;
 
 namespace CommForStudent.Controllers
 {
@@ -12,6 +13,19 @@ namespace CommForStudent.Controllers
         {
             return View();
         }
+
+        public ActionResult Home()
+        {
+            return View();
+        }
+
+
+        public ActionResult LoginStudent()
+        {
+            return View(new LoginStudent());
+        }
+
+        
 
         public ActionResult About()
         {
